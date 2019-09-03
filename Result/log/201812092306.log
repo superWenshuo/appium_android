@@ -1,0 +1,9 @@
+2018-12-09 23:07:01,735 - C:\Users\文硕\Desktop\xinzheng_androidUI_1126\xinzheng_androidUI\configure\excelManage_new.py[line:279] - ERROR: case id=1.0的元素未找到,点击 我的出错
+2018-12-09 23:07:05,035 - C:\Users\文硕\Desktop\xinzheng_androidUI_1126\xinzheng_androidUI\configure\excelManage_new.py[line:279] - ERROR: case id=2.0的元素未找到,点击 登录注册出错
+2018-12-09 23:07:08,216 - C:\Users\文硕\Desktop\xinzheng_androidUI_1126\xinzheng_androidUI\configure\excelManage_new.py[line:279] - ERROR: case id=3.0的元素未找到,点击 手机号码输入框出错
+2018-12-09 23:07:12,279 - C:\Users\文硕\Desktop\xinzheng_androidUI_1126\xinzheng_androidUI\configure\excelManage_new.py[line:279] - ERROR: case id=4.0的元素未找到,输入手机号出错
+2018-12-09 23:07:15,490 - C:\Users\文硕\Desktop\xinzheng_androidUI_1126\xinzheng_androidUI\configure\excelManage_new.py[line:279] - ERROR: case id=5.0的元素未找到,点击下一步出错
+2018-12-09 23:07:18,821 - C:\Users\文硕\Desktop\xinzheng_androidUI_1126\xinzheng_androidUI\configure\excelManage_new.py[line:279] - ERROR: case id=6.0的元素未找到,点击测试环境登录的弹窗出错
+2018-12-09 23:07:22,203 - C:\Users\文硕\Desktop\xinzheng_androidUI_1126\xinzheng_androidUI\configure\excelManage_new.py[line:279] - ERROR: case id=7.0的元素未找到,点击验证码输入框出错
+2018-12-09 23:07:26,188 - C:\Users\文硕\Desktop\xinzheng_androidUI_1126\xinzheng_androidUI\configure\excelManage_new.py[line:279] - ERROR: case id=8.0的元素未找到,输入验证码出错
+2018-12-09 23:07:28,657 - C:\Users\文硕\Desktop\xinzheng_androidUI_1126\xinzheng_androidUI\configure\excelManage_new.py[line:279] - ERROR: case id=9.0的元素未找到,验证登录成功出错
